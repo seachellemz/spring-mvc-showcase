@@ -43,7 +43,10 @@
                         I am adding this extra line
                  </p>
                  <p>
-                        I am adding this additional line - MZ
+                        I am adding this additional line - MZ1
+                 </p>
+                 <p>
+                        I am adding this additional line - MZ2
                  </p>
 <p>
 This is the second line to be added
